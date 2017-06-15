@@ -18,6 +18,6 @@ Yani sistemci dedidimiz eslında istifadecidir.
 
 # 2) Proqramlaşdırma dillərində ortaq istifadə olunan konseptlər hansılardır?
 
-##{},:,<>,/,?,~,:,"",
+## {},:,<>,/,?,~,:,"",
 
 # 3) 
