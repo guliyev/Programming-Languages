@@ -12,7 +12,7 @@
 
 ## Client side Language
 
-Sistemlere fayllari açması ve movcud isleri heyata kecirmesi ucun  HTTP ve HTTPS pratokollari üzerinden istek gönderen userlere sistemci deyilir. 
+## Sistemlere fayllari açması ve movcud isleri heyata kecirmesi ucun  HTTP ve HTTPS pratokollari üzerinden istek gönderen userlere sistemci deyilir. 
 Yani sistemci dedidimiz eslında istifadecidir.
 
 
@@ -20,4 +20,12 @@ Yani sistemci dedidimiz eslında istifadecidir.
 
 ## {},:,<>,/,?,~,:,"",
 
-# 3) 
+# 3) Interpreted language və Compiled language arasındakı fərqləri izah edin
+
+## 1-) Complied Diller : Bir programın menbe kodunu, bir complier vasitesiyle ile isesalabilen fail novune (windows uçun .exe) cevirirsiniz daha sonra programı her isletmek istediyinizde  bu .exe file nin komeyi ile hazır halda tapilan iki terefli  formundan programı ise salirsiniz. Yeni bele bir sıralama alinir.
+
+## Menbe Kod -> Complier ->Arastirabilen nove (.exe) -> Program
+
+2-) Interpreted Diller : Yene menbe kodumuz var, ancaq bu kodu herhansi başka bir isenebilen novune cevirik ve her ne vaxt isletmek istesek, bir interpreter komeyi  ile faile i önce ikiterefli formuna ceviririk daha sonra isledirik.
+
+Menbe Kod -> İnterpreter -> Program
