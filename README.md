@@ -26,6 +26,6 @@ Yani sistemci dedidimiz eslında istifadecidir.
 
 ## Menbe Kod -> Complier ->Arastirabilen nove (.exe) -> Program
 
-2-) Interpreted Diller : Yene menbe kodumuz var, ancaq bu kodu herhansi başka bir isenebilen novune cevirik ve her ne vaxt isletmek istesek, bir interpreter komeyi  ile faile i önce ikiterefli formuna ceviririk daha sonra isledirik.
+## 2-) Interpreted Diller : Yene menbe kodumuz var, ancaq bu kodu herhansi başka bir isenebilen novune cevirik ve her ne vaxt isletmek istesek, bir interpreter komeyi  ile faile i önce ikiterefli formuna ceviririk daha sonra isledirik.
 
-Menbe Kod -> İnterpreter -> Program
+## Menbe Kod -> İnterpreter -> Program
