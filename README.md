@@ -13,7 +13,7 @@
 ## Client side Language
 
 ## Sistemlere fayllari açması ve movcud isleri heyata kecirmesi ucun  HTTP ve HTTPS pratokollari üzerinden istek gönderen userlere sistemci deyilir. 
-Yani sistemci dedidimiz eslında istifadecidir.
+## Yeni sistemci dediyimiz eslında istifadecidir.
 
 
 # 2) Proqramlaşdırma dillərində ortaq istifadə olunan konseptlər hansılardır?
